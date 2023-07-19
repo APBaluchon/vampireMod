@@ -1,0 +1,3 @@
+displayName = A bit of Dracula
+author = Baluchon
+version = 0.1
