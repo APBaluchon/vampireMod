@@ -5,7 +5,7 @@ using Terraria.ModLoader;
 using Microsoft.Xna.Framework;
 using Terraria.DataStructures;
 
-namespace vampireMod.buff
+namespace vampireMod.buffs
 {
     internal class vampireBuff : ModBuff
     {
@@ -17,20 +17,22 @@ namespace vampireMod.buff
 
         }
 
+
+
         public override void Update(Player player, ref int buffIndex)
         {
             if (Main.dayTime)
             {
                 if (player.HasBuff(buffIndex))
                 {
-                    if (Collision.CanHitLine(player.position, 1, 1, new Vector2(player.position.X, 0), 1, 1)) ;
+                    if (Collision.CanHitLine(player.position, 1, 1, new Vector2(player.position.X, 0), 1, 1));
                     {
                         player.Hurt(PlayerDeathReason.ByCustomReason("Burned by the sun !"), 1, -player.direction);
                     }
                 }
                 else
                 {
-                    player.AddBuff(buffIndex, 10);
+                    player.AddBuff(buffIndex, 1);
                 }
             }
 
