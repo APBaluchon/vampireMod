@@ -9,7 +9,7 @@ The main idea is to survive vampire hunters, sunlight, and feed on the blood tha
 ![](https://i.ibb.co/tc2LPrv/vampireimg.png)\
 White skin, black hair, a perfect vampire!
 - [X] Vampire hunter NPC
-![](https://i.ibb.co/Jrpckf6/vampire-Hunter.png)
+![](https://i.ibb.co/Jrpckf6/vampire-Hunter.png)\
 - [ ] Human NPC
 - [ ] Blood potion item
 - [ ] Bat transformation
