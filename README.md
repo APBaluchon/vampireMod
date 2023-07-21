@@ -3,14 +3,9 @@ This mod allows you to play as a vampire in the world of Terraria.
 The main idea is to survive vampire hunters, sunlight, and feed on the blood that you can harvest from humans.
 # Roadmap
 
-- [X] Vampire Buff (if the sun touches you, you lose health points)\
-![](https://i.ibb.co/bdDRqQ4/buffimg.png)
-- [X] Visual modifications on player\
-![](https://i.ibb.co/tc2LPrv/vampireimg.png)\
-White skin, black hair, a perfect vampire!
-- [X] Vampire hunter NPC\
-![](https://i.ibb.co/Jrpckf6/vampire-Hunter.png)\
-For now, the NPC is trying to catch you. It behaves similarly to a zombie. In the future, other NPCs will be added with ranged attacks.
+- [X] Vampire Buff (if the sun touches you, you lose health points)
+- [X] Visual modifications on player
+- [X] Vampire hunter NPC
 - [ ] Human NPC
 - [ ] Blood potion item
 - [ ] Bat transformation
