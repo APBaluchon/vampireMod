@@ -19,9 +19,9 @@ namespace vampireMod.pnjs
         {
             NPC.width = 18;
             NPC.height = 40;
-            NPC.damage = 14;
+            NPC.damage = 6;
             NPC.defense = 6;
-            NPC.lifeMax = 120;
+            NPC.lifeMax = 50;
             NPC.HitSound = SoundID.NPCHit1;
             NPC.DeathSound = SoundID.NPCDeath1;
             NPC.aiStyle = NPCAIStyleID.Fighter;
